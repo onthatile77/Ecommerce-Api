@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UkNATYx7HS0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ontha\\Ecommerce-Api\\Ecommerce-Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ontha\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
