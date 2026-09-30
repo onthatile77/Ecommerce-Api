@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+    builder.Services.AddSqlite<AppDbContext>(builder.Configuration.GetConnectionString("Default"));
 
 var app = builder.Build();
 
